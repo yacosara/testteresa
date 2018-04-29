@@ -26,8 +26,6 @@
             <img class="second-slide" src="images/adumay2.jpg" alt="Second slide">
             <div class="container">
               <div class="carousel-caption text-right">
-                
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                 <p><a class="btn btn-lg btn-info" href="{{asset('nosotros')}}" role="button">Nuestra Historia</a></p>
               </div>
             </div>
@@ -36,8 +34,6 @@
             <img class="third-slide" src="images/galeria/galeria3.jpg" alt="Third slide">
             <div class="container">
               <div class="carousel-caption text-right">
-                
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                 <p><a class="btn btn-lg btn-info" href="servicios" role="button">Nuestros Servicios</a></p>
               </div>
             </div>
@@ -77,8 +73,7 @@
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="images/HCinformatics_dr_tablet.jpg" alt="Generic placeholder image" width="140" height="140">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+            <h2>Heading</h2>            
             <p><a class="btn btn-info" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
