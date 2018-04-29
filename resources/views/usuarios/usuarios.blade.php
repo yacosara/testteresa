@@ -9,10 +9,10 @@
 </ul>	
 
 
-<table class="table table-sm">
-  <thead class="table-info">
+<table class="table table-striped">
+  <thead >
     <tr>
-      <th scope="col">#</th>
+      <th scope="col">ID</th>
       <th scope="col">Nombre</th>
       <th scope="col">Email</th>
       <th scope="col">Estado</th>
@@ -33,15 +33,15 @@
       <td >{{$user->name}}</td>
       <td >{{$user->email}}</td>      
       <td >{{$user->email}}</td>      
-      <td >
-      <a href="/usuarios/create" class ="btn btn-outline-info btn-sm">Nuevo</a>
-      <a href="/usuarios/{{$user->id}}/edit" class="btn btn-outline-info btn-sm">Editar</a>
-      <a href="/usuarios/{{$user->id}}" class="btn btn-outline-info btn-sm">Ver</a>
+      <td >      
      {{--  <a href="/usuarios/{{$user->id}}/delete" class="btn btn-outline-info btn-sm">Eliminar</a> --}}
       <form action="{{ route('usuario.delete',$user) }}" method="POST">
            {{ csrf_field() }}
            {{ method_field('delete') }}
-           <button type='submit' class="btn btn-outline-info btn-sm" > Eliminar </button>  
+           <a href="/usuarios/create" class ="btn btn-success"></a>      
+           <a href="/usuarios/{{$user->id}}/edit" class="btn btn-warning"></a>
+      <a href="/usuarios/{{$user->id}}" class="btn btn-dark "></a>
+           <button type='submit' class="btn btn-danger " >  </button>  
        </form>    
       
       </td>
