@@ -47,7 +47,7 @@
               <a class="nav-link btn btn-info bg-info" href="{{@asset('contacto')}}">Contacto</a>
           </li>            
           <li class="nav-item">
-              <a class="nav-link btn btn-info bg-info" href="{{asset('gestion/login')}}">Iniciar Sesion</a>
+              <a class="nav-link btn btn-info bg-info" href="{{@asset('gestion/login')}}">Iniciar Sesion</a>
           </li>            
           </ul>
 

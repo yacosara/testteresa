@@ -18,9 +18,7 @@
             <img class="first-slide" src="images/adumay1.jpg" alt="First slide">
             <div class="container">
               <div class="carousel-caption text-left">
-                <h1>La Casa de Teresa</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                <p><a class="btn btn-lg btn-info" href="#" role="button">Sign up today</a></p>
+                <p><a class="btn btn-lg btn-info" href="{{@asset('contacto')}}"  role="button">Contacto</a></p>
               </div>
             </div>
           </div>
@@ -28,9 +26,9 @@
             <img class="second-slide" src="images/adumay2.jpg" alt="Second slide">
             <div class="container">
               <div class="carousel-caption text-right">
-                <h1>La Casa de Teresa</h1>
+                
                 <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                <p><a class="btn btn-lg btn-info" href="#" role="button">Learn more</a></p>
+                <p><a class="btn btn-lg btn-info" href="{{asset('nosotros')}}" role="button">Nuestra Historia</a></p>
               </div>
             </div>
           </div>
@@ -38,7 +36,7 @@
             <img class="third-slide" src="images/galeria/galeria3.jpg" alt="Third slide">
             <div class="container">
               <div class="carousel-caption text-right">
-                <h1>La Casa de Teresa</h1>
+                
                 <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                 <p><a class="btn btn-lg btn-info" href="servicios" role="button">Nuestros Servicios</a></p>
               </div>
