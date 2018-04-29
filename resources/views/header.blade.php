@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
-  <title>@yield('Titulo')</title>
+  <title>{{$titulo}}</title>
   </head>
   <body>  
 <!-- Bootstrap core CSS -->
