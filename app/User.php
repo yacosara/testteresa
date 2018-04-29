@@ -30,9 +30,8 @@ class User extends Authenticatable
     'is_admin'=>'boolean'
     ];
 
-    public articles()
-    {
-         return $this->$this->hasMany('App\Article')
+    public function articles()    {
+         return $this->hasMany('App\Article');
     } 
 
     public function profesion() {
