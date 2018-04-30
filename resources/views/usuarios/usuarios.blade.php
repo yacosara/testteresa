@@ -38,14 +38,13 @@
       <form action="{{ route('usuario.delete',$user) }}" method="POST">
            {{ csrf_field() }}
            {{ method_field('delete') }}
-           <a href="/usuarios/create" class ="btn btn-success"></a>      
+           <a href="/usuarios/create" class ="btn btn-success"><span class="glyphicon glyphicon-envelope"></span></a>      
            <a href="/usuarios/{{$user->id}}/edit" class="btn btn-warning"></a>
       <a href="/usuarios/{{$user->id}}" class="btn btn-dark "></a>
-           <button type='submit' class="btn btn-danger " >  </button>  
+           <button type='submit' class="btn btn-danger " > 
+            </button> 
        </form>    
-      
       </td>
-      
     </tr>
   
 @endforeach; 
