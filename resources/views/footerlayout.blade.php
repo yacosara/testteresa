@@ -8,7 +8,7 @@
                 <li><a href="home" class="btn-sm btn-info">Home</a></li>
                 <li><a href="nosotros" class="btn-sm btn-info">Nosotros</a></li>
                 <li><a href="servicios" class="btn-sm btn-info">Servicios</a></li>
-                <li><a href="recursos" class="btn-sm btn-info">Recursos</a></li>                
+                <li><a href="recursos" class="btn-sm btn-info">Galeria</a></li>                
               </ul>            
 </div>
 <div class="col-md-5">

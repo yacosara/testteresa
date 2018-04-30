@@ -9,7 +9,7 @@
                 <li><a href="home" class="btn-sm btn-info">Home</a></li>
                 <li><a href="nosotros" class="btn-sm btn-info">Nosotros</a></li>
                 <li><a href="servicios" class="btn-sm btn-info">Servicios</a></li>
-                <li><a href="recursos" class="btn-sm btn-info">Recursos</a></li>
+                <li><a href="recursos" class="btn-sm btn-info">Galeria</a></li>
                 <li><a href="blog" class="btn-sm btn-info">Blog</a></li>
                 <li><a href="contacto" class="btn-sm btn-info">Contacto</a></li>
                 <li><a href="gestion/login" class="btn-sm btn-info">Iniciar Sesion</a></li>

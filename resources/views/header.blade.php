@@ -38,7 +38,7 @@
              <a class="nav-link btn btn-info bg-info" href="{{@asset('servicios')}}" >Servicios</a>
           </li>          
           <li class="nav-item">
-              <a class="nav-link btn btn-info bg-info" href="{{@asset('recursos')}}">Recursos</a>
+              <a class="nav-link btn btn-info bg-info" href="{{@asset('recursos')}}">Galeria</a>
           </li>                      
           <li class="nav-item">
               <a class="nav-link btn btn-info bg-info" href="{{@asset('blog')}}">Blog</a>

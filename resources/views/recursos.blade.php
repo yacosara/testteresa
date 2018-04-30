@@ -1,5 +1,5 @@
-{{$titulo='La Casa de Teresa:Recursos'}}
-{{$tituloPagina='Recursos'}}
+{{$titulo='La Casa de Teresa:Galeria'}}
+{{$tituloPagina='Galeria'}}
 {{$SubtituloPagina=''}}
 @extends('layout')
 @section('Contenido')
