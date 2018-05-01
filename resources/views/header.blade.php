@@ -13,6 +13,10 @@
     <link href="{{@asset('css/bootstrap.min.css')}}" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="{{@asset('css/carousel.css')}}" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/font/css/open-iconic-bootstrap.css" integrity="sha256-CNwnGWPO03a1kOlAsGaH5g8P3dFaqFqqGFV/1nkX5OU=" crossorigin="anonymous" />
+
+
    @yield('Estilos')
   <header>
     <nav class="container-fluid navbar navbar-expand-md navbar-dark fixed-top bg-info">

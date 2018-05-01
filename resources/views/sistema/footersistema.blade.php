@@ -9,15 +9,15 @@
   <tbody>
     <tr>
       <th scope="row"></th>
-      <td><a href="Cerrar Sesion" class="btn-sm btn-info">Cerrar Sesion</a></td>
-      <td><a href="Pacientes" class="btn-sm btn-info">Pacientes</a></td>
-      <td><a href="Proveedores" class="btn-sm btn-info">Deposito</a></td>
+      <td><a href="Cerrar Sesion" class="btn-sm bg-primary text-white">Cerrar Sesion</a></td>
+      <td><a href="Pacientes" class="btn-sm bg-primary text-white">Pacientes</a></td>
+      <td><a href="Proveedores" class="btn-sm bg-primary text-white">Deposito</a></td>
     </tr>
     <tr>
       <th scope="row"></th>
-      <td><a href="contacto" class="btn-sm btn-info">Agenda</a></td>
-      <td><a href="contacto" class="btn-sm btn-info">Consultas</a></td>
-      <td><a href="contacto" class="btn-sm btn-info">Facturacion</a></td>
+      <td><a href="contacto" class="btn-sm bg-primary text-white">Agenda</a></td>
+      <td><a href="contacto" class="btn-sm bg-primary text-white">Consultas</a></td>
+      <td><a href="contacto" class="btn-sm bg-primary text-white">Facturacion</a></td>
     </tr>
   </tbody>
 </table>

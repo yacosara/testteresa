@@ -3,14 +3,11 @@
 {{$tituloPagina='	Usuarios'}}
 {{$SubtituloPagina='Usuarios del Sistema de Gestión'}}
 @section('Contenido')
-@if(! empty($users)) 	
-<ul>
-
-</ul>	
+@if(! empty($users)) 
 
 
 <table class="table table-striped">
-  <thead >
+  <thead class ='bg-primary text-white'>
     <tr>
       <th scope="col">ID</th>
       <th scope="col">Nombre</th>
@@ -38,11 +35,18 @@
       <form action="{{ route('usuario.delete',$user) }}" method="POST">
            {{ csrf_field() }}
            {{ method_field('delete') }}
-           <a href="/usuarios/create" class ="btn btn-success"><span class="glyphicon glyphicon-envelope"></span></a>      
-           <a href="/usuarios/{{$user->id}}/edit" class="btn btn-warning"></a>
-      <a href="/usuarios/{{$user->id}}" class="btn btn-dark "></a>
-           <button type='submit' class="btn btn-danger " > 
-            </button> 
+           <a href="/usuarios/create" >
+              <span class="oi oi-plus"></span>
+           </a>      
+           <a href="/usuarios/{{$user->id}}/edit" >
+              <span class="oi oi-pencil"></span>
+           </a>
+           <a href="/usuarios/{{$user->id}}" >
+              <span class="oi oi-eye"></span>
+           </a>
+           <button type='submit' class='btn btn-link' > 
+              <span class="oi oi-trash"></span>
+           </button> 
        </form>    
       </td>
     </tr>
@@ -56,8 +60,7 @@
 @else
 <p> No hay usuarios Registrados.</p>
 @endif
-
-	
+</div> 
 
 @endsection
 

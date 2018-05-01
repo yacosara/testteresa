@@ -5,6 +5,7 @@
 @section('Estilos')
  <link href="@asset('css/floating-labels.css')"  rel="stylesheet">
  <link href="@asset('css/bootstrap.min.css')" rel="stylesheet">
+ 
 @endsection
 
 @section('Contenido')
