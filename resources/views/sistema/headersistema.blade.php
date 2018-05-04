@@ -44,7 +44,7 @@
           </li>            
 
           <li class="nav-item">
-              <a class="nav-link btn " href="/residentes">Cerrar Sesion</a>
+              <a class="nav-link btn " href="/cerrarsesion">Cerrar Sesion</a>
           </li>            
           </ul>
 
