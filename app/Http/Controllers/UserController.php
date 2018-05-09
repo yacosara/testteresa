@@ -40,6 +40,9 @@ class UserController extends Controller
     //     $user =User::all();            
     //     return view('usuarios.lista',compact('user'));   
     // }
+
+
+
     function ingresosistema(){
         $user =User::find(1);            
         return view('sistema.main',compact('user'));   

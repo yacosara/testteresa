@@ -1,0 +1,83 @@
+commit f47a35b105f6c2488e298f8b34871a962739de7d
+Author: david <arriola_david@hotmail.com>
+Date:   Fri May 4 17:38:58 2018 -0300
+
+    se añadio la pagina reidentes
+
+commit c232fbcb1e7d7f4bd0d2f406ac1bf31bdd07eb13
+Author: david <arriola_david@hotmail.com>
+Date:   Fri May 4 15:39:11 2018 -0300
+
+    se cambio elcontroller
+
+commit ff4f3a780493d6e6a4fe90d1fd6e2908e40d2b18
+Author: david <arriola_david@hotmail.com>
+Date:   Tue May 1 00:38:17 2018 -0300
+
+    se añadieron icons a los botones de grilla de usuarios y se cambio so color del modulo del sistema
+
+commit fe96e654b8c8d13d0a0f6ea5679124d26dd4ed8b
+Author: david <arriola_david@hotmail.com>
+Date:   Mon Apr 30 00:05:36 2018 -0300
+
+    se actualizo galeria
+
+commit ffd485d6b799c3dc6b915a0c94b69a9f2d9d724c
+Author: david <arriola_david@hotmail.com>
+Date:   Sun Apr 29 23:31:12 2018 -0300
+
+    se cambio el titulo de recursos por galeria
+
+commit 7225ccf7f25ff5430d50e502075d478fe140c447
+Author: david <arriola_david@hotmail.com>
+Date:   Sun Apr 29 22:21:48 2018 -0300
+
+    se linkeo Home del header de usuarios
+
+commit ddc042484372311417d1008c7c2ecf5e9c764cb3
+Author: david <arriola_david@hotmail.com>
+Date:   Sun Apr 29 22:10:56 2018 -0300
+
+    se mdoifico cabcera del usuario y usuarios
+
+commit 2eb76af9680f2b3c267c36ebde118db8d2b861f0
+Author: david <arriola_david@hotmail.com>
+Date:   Sun Apr 29 20:59:14 2018 -0300
+
+    se saco el texto de los banners de laprincipal
+
+commit 51e209d433c7caca473dcfc7ad8dd82273d3610e
+Author: david <arriola_david@hotmail.com>
+Date:   Sun Apr 29 20:53:01 2018 -0300
+
+    se modifico el diseño del listado de usuarios
+
+commit d96ff51d752f67315059872e5f94f8eb028362c7
+Author: david <arriola_david@hotmail.com>
+Date:   Sun Apr 29 20:26:35 2018 -0300
+
+    se corrigio user.php
+
+commit 031f9999b2dd038c3585edec45ea11a04a32b280
+Author: david <arriola_david@hotmail.com>
+Date:   Sun Apr 29 19:51:18 2018 -0300
+
+    se corrigio titulo de la pagina en header blade
+
+commit 2578b8b70fee3baaddd96d04d2fb5d6c1497a422
+Author: david <arriola_david@hotmail.com>
+Date:   Sun Apr 29 19:43:42 2018 -0300
+
+    modificacion banners del inicio add link a contactos y quienes somos
+
+commit 5fd7ebf339ccac8d400a8452a31d67b0f93cad7a
+Author: david <arriola_david@hotmail.com>
+Date:   Tue Apr 24 19:42:53 2018 -0300
+
+    commit inicial
+
+commit b6287ca8e7a7d5e25aa831450268327cf9f01ddc
+Author: Davico <Davico>
+Date:   Wed Mar 28 18:47:21 2018 -0300
+
+    primner commit
