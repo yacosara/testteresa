@@ -4,7 +4,7 @@
 @extends('layout')
 
 @section('Contenido')
-
+NOSOTROS
 <div class="container-fluid ">
   <div class="row">
   <div class="col-sm-6 card-body" style="background-color:FFFFFF;">	
