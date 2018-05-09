@@ -4,7 +4,7 @@
 @extends('layout')
 
 @section('Contenido')
-
+CONTACTO GITHUB
 @endsection
 
 @section('sectionfooter')
